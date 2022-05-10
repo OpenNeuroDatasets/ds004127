@@ -1,0 +1,9 @@
+{
+    "License": "PD",
+    "Name": "Somatosensory Cortex Rat DISC Data",
+    "BIDSVersion": "1.1.1",
+    "Authors": ["Amada Abrego", 
+	"Wasif Khan", 
+	"John P Seymour"],
+    "DatasetType": "raw"
+}
